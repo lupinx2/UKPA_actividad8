@@ -1,4 +1,4 @@
-import PySimpleGUI as sg
+import PySimpleGUI as sg # pip install pysimplegui
 import requests
 
 if __name__ == '__main__':
